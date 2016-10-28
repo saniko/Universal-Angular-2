@@ -1,0 +1,6 @@
+{
+  "name": "Universal-angular-2",
+  "tagline": "",
+  "body": "# Universal-Angular-2\r\n\r\n**** Work In Progress *** <br><br>\r\nAngular 2 Universal Explained - Educational Purposes,\r\nWill evolve with time to full universal Angular 2 app<br>\r\nPart of Dani Koren's personal <a href=\"https://saniko.github.io/danikoren/\">blog.</a>\r\n\r\n# Good to know\r\n1. For an excellent starting point to those who seek to understand the modern javascript technology stack click <a href=\"https://github.com/saniko/js-stack-from-scratch\">here</a>.<br>\r\n2. To understand the concept of reactive programming click <a href=\"https://gist.github.com/staltz/868e7e9bc2a7b8c1f754\">here</a>.<br>\r\n3. For Angular Universal app click <a href=\"https://universal.angular.io/\">here</a>.<br>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
