@@ -2,7 +2,7 @@
 
 **** Work In Progress *** <br><br>
 Angular 2 Universal Explained - Educational Purposes,
-Will evolve with time to full universal react app<br>
+Will evolve with time to full universal Angular 2 app<br>
 Part of Dani Koren's personal <a href="https://saniko.github.io/danikoren/">blog.</a>
 
 # Good to know
